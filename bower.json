@@ -1,0 +1,30 @@
+{
+  "name": "joe_sinatra",
+  "version": "0.0.0",
+  "authors": [
+    "DrRobotmck <mckenneth.scott@icloud.com>"
+  ],
+  "description": "Package for The Joe in Angular",
+  "main": "index.html",
+  "keywords": [
+    "angular",
+    "handlebars",
+    "underscore"
+  ],
+  "license": "MIT",
+  "homepage": "mckenneth.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.23",
+    "underscore": "~1.7.0",
+    "jquery": "~2.1.1",
+    "handlebars": "~2.0.0"
+  }
+}
